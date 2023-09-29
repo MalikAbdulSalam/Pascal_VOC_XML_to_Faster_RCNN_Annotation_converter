@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>overpass_373_jpg.rf.d493a5468e0933b6295acc36b388d352.jpg</filename>
+	<path>overpass_373_jpg.rf.d493a5468e0933b6295acc36b388d352.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>overpass</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>222</xmin>
+			<xmax>443</xmax>
+			<ymin>141</ymin>
+			<ymax>415</ymax>
+		</bndbox>
+	</object>
+</annotation>

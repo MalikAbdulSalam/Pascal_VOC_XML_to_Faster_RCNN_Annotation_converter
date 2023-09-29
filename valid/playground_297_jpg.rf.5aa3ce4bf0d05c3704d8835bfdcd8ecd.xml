@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>playground_297_jpg.rf.5aa3ce4bf0d05c3704d8835bfdcd8ecd.jpg</filename>
+	<path>playground_297_jpg.rf.5aa3ce4bf0d05c3704d8835bfdcd8ecd.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>playground</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>210</xmin>
+			<xmax>365</xmax>
+			<ymin>182</ymin>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+</annotation>
